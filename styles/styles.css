@@ -46,5 +46,17 @@ body .first-level-padding {
 }
 
 .hero-section {
-    background-color: #1F2937
+    background-color: #1F2937;
+    display: flex;
+}
+
+.hero-main-text {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+.hero-secondary-text {
+    font-size: 18px;
+    color: #E5E7EB;
 }
