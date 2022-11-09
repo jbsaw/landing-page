@@ -3,6 +3,7 @@
     font-family: roboto, sans-serif;
 }
 
+/* images */
 .header-logo {
     width: 125px;
     height: auto;
@@ -23,6 +24,7 @@ body .first-level-padding {
     padding-right: 230px;
 }
 
+/* header */
 .header {
     padding-top: 10px;
     background-color: #1F2937;
@@ -45,6 +47,7 @@ body .first-level-padding {
     font-size: 18px;
 }
 
+/* hero section */
 .hero-section {
     background-color: #1F2937;
     display: flex;
@@ -73,4 +76,9 @@ body .first-level-padding {
     margin-top: 10px;
     border-radius: 8px;
     border: none;
+}
+
+/* image section */
+.image-section {
+
 }
