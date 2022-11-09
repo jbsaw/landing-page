@@ -1,5 +1,6 @@
 * {
     margin: 0px;
+    font-family: roboto, sans-serif;
 }
 
 .header-logo {
@@ -24,4 +25,18 @@ body .first-level-padding {
 
 .header {
     background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-logo {
+}
+
+.navbar {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 30px;
 }
