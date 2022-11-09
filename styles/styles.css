@@ -15,8 +15,8 @@
 }
 
 .placeholder {
-    width: 100px;
-    height: 100px;
+    width: 180px;
+    height: 180px;
 }
 
 body .first-level-padding {
@@ -98,7 +98,6 @@ body .first-level-padding {
 }
 
 .random-image {
-    border: 5px solid red;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -109,6 +108,8 @@ body .first-level-padding {
     width: 180px;
 }
 
-.random-image-container * {
-    border: 5px solid red;
+.placeholder {
+    border: 5px solid #3882F6;
+    border-radius: 20px;
+    margin-bottom: 7px;
 }
