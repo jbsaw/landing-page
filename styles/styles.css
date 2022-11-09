@@ -17,6 +17,11 @@
     height: 100px;
 }
 
+body .first-level-padding {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
 .header {
     background-color: #1F2937;
 }
