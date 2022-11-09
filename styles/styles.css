@@ -4,7 +4,7 @@
 }
 
 .header-logo {
-    width: 75px;
+    width: 125px;
     height: auto;
 }
 
@@ -41,4 +41,9 @@ body .first-level-padding {
 .header-link {
     text-decoration: none;
     color: #E5E7EB;
+    font-size: 18px;
+}
+
+.hero-section {
+    background-color: #1F2937
 }
