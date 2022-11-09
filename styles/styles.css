@@ -80,9 +80,35 @@ body .first-level-padding {
 
 /* image section */
 .image-section h2 {
-    padding-top: 75px;
+    padding: 75px 0px;
     font-size: 36px;
     font-weight: 800;
     color: #1F2937;
     text-align: center;
+}
+
+.image-section {
+    padding-bottom: 150px;
+}
+
+.random-image-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.random-image {
+    border: 5px solid red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.random-image p {
+    text-align: center;
+    width: 180px;
+}
+
+.random-image-container * {
+    border: 5px solid red;
 }
