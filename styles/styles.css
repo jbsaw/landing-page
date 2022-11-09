@@ -25,12 +25,9 @@ body .first-level-padding {
 
 .header {
     background-color: #1F2937;
-    color: white;
+    color: #E5E7EB;
     display: flex;
     justify-content: space-between;
-}
-
-.header-logo {
 }
 
 .navbar {
@@ -39,4 +36,9 @@ body .first-level-padding {
     justify-content: flex-end;
     align-items: center;
     gap: 30px;
+}
+
+.header-link {
+    text-decoration: none;
+    color: #E5E7EB;
 }
