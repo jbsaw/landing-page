@@ -134,3 +134,13 @@ body .first-level-padding {
     font-size: 24px;
     text-align: right;
 }
+
+/* call to action section */
+.call-to-action-container {
+    margin: 180px 0;
+    padding: 55px 140px;
+    background-color: #3882F6;
+    border: 5px solid #3882F6;
+    border-radius: 8px;
+    color: #F9FAF8;
+}
