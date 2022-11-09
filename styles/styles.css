@@ -118,6 +118,7 @@ body .first-level-padding {
 /* quote section */
 .quote-section {
     background-color: #E5E7EB;
+    padding: 180px 385px;
 }
 
 .quote-section p {
