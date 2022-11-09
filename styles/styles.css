@@ -114,3 +114,13 @@ body .first-level-padding {
     border-radius: 20px;
     margin-bottom: 10px;
 }
+
+/* quote section */
+.quote-section {
+    background-color: #E5E7EB;
+}
+
+.quote-section p {
+    font-size: 36px; 
+    color: #1F2937;
+}
