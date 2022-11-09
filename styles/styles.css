@@ -146,3 +146,14 @@ body .first-level-padding {
     display: flex;
     justify-content: space-between;
 }
+
+.call-to-action-section button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 35px;
+    margin-top: 10px;
+    border-radius: 8px;
+    border: 2px solid #E5E7EB;
+}
