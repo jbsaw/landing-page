@@ -143,4 +143,6 @@ body .first-level-padding {
     border: 5px solid #3882F6;
     border-radius: 8px;
     color: #F9FAF8;
+    display: flex;
+    justify-content: space-between;
 }
