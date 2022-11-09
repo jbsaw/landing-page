@@ -94,7 +94,7 @@ body .first-level-padding {
 .random-image-container {
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 40px;
 }
 
 .random-image {
