@@ -121,6 +121,15 @@ body .first-level-padding {
 }
 
 .quote-section p {
-    font-size: 36px; 
     color: #1F2937;
+}
+
+.quote {
+    font-size: 36px; 
+    font-weight: 100;
+}
+
+.quote-source {
+    font-size: 24px;
+    text-align: right;
 }
